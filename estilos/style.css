@@ -127,7 +127,7 @@ footer{
     p{
         text-indent: 20px;
         text-align: center;
-        width: 400px;
+        max-width: 400px;
         margin: 10px auto;
     }
     #externo01{
