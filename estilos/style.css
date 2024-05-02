@@ -167,14 +167,11 @@ footer{
                 margin: .5px;
             }
         }
-        .redes{
-            width: 50px
-        }
         .text1:hover{
             text-decoration: underline;
         }
         .logo01{
-            width: 200px;
+            margin: 20px;
         }
     }
     aside{
